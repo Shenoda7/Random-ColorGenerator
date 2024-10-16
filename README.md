@@ -2,6 +2,10 @@
 
 A simple React project that generates random colors in either RGB or HEX format. The user can switch between the two color formats and generate new random colors on demand. The background of the application updates with the generated color, and the current color code is displayed on the screen.
 
+![image](https://github.com/user-attachments/assets/381ecb6b-3555-4768-b3a7-f2919a678ef3)
+![image](https://github.com/user-attachments/assets/54998cc5-e02f-44e3-9002-6c5bd9cadd7e)
+
+
 ## Features
 
 - Generate random RGB or HEX color codes.
