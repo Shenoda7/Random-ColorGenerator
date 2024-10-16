@@ -20,5 +20,5 @@ A simple React project that generates random colors in either RGB or HEX format.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/random-color-generator.git
+   git clone https://github.com/your-username/Random-ColorGenerator.git
    ```
